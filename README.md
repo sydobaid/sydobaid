@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sydobaid
-- 👀 I’m interested in web development & emerging technologies
+- 👀 I’m interested in software development & emerging technologies
 - 🌱 I’m currently learning all the skills to be a full stack developer
 - 💞️ I’m looking to collaborate on unique projects
 - 📫 You can reach me - obaidquadri.oq@gmail.com
